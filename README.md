@@ -1,5 +1,5 @@
 # SSL Expire Scan
-SSL 证书到期时间检测，使用 PHP 开发
+SSL 证书到期时间检测，使用 PHP 开发，需要安装 OpenSSL 扩展
 
 ## 使用方法
 将项目 clone 到本地，然后在命令行输入
