@@ -21,6 +21,7 @@ alias sslscan='php /path/to/main.php'
 ## 未来计划
 - [ ] 支持定期自动扫描
 - [ ] 支持到期邮件通知
+- [ ] 到期后自动调用 acme.sh 续命
 - [ ] 还在想
 
 ## 开源协议
